@@ -35,7 +35,7 @@
     "ejs": "^2.5.2",
     "express": "^4.14.0",
     "js-yaml": "^3.6.1",
-    "json-schema-to-openapi-schema": "^0.3.0",
+    "json-schema-to-openapi-schema": "git+https://git@github.com/sixlive/json-schema-to-openapi-schema.git#04be69f4a4e3e60cdc0ce08702a467815540aa14",
     "nconf": "^0.10.0",
     "nconf-yaml": "^1.0.2",
     "node-fetch": "^2.3.0",
